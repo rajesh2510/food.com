@@ -8,7 +8,7 @@
 This is a food ordering website built using HTML, CSS, JavaScript, React, NodeJs, ExpressJs and Mongodb. The website allows users to order their favourite food online.
 ## Features
 
-#1. User Authentication and Management:
+##1. User Authentication and Management:
 -Registration and Login:
 
 -Users can register using an email and password.
