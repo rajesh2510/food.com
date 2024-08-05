@@ -56,7 +56,7 @@ const PlaceOrder = () => {
   useEffect(()=>{
     if (!token){
       navigate('/cart')
-      alert("Please login into your account");
+      
     }
     else if(getTotalCartAmount()===0)
     {
